@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Utenti>
+    <Utente tipo="Executive">
+        <Username>bgd</Username>
+        <Nome>Bgd</Nome>
+        <Cognome>Suie</Cognome>
+        <DataNascita>30.05.1989</DataNascita>
+        <Descrizione>Solare e grande</Descrizione>
+        <Competenze nome="c+" voto="7"/>
+        <Competenze nome="jav" voto="4"/>
+        <Esperienze nome="unaununua" inizio="01.01.2033" fine="01.01.2000"/>
+        <Esperienze nome="1" inizio="01.01.2000" fine="01.01.2000"/>
+        <Studi percorso="ipsia" anno="2012"/>
+        <Studi percorso="itis" anno="2014"/>
+        <Lingue nome="inglese" livello="Basic"/>
+        <Lingue nome="tedesco" livello="Avanzato"/>
+    </Utente>
+    <Utente tipo="Business">
+        <Username>suie</Username>
+        <Nome>Bgd</Nome>
+        <Cognome>Suie</Cognome>
+        <DataNascita>30.05.1989</DataNascita>
+        <Descrizione>Solare</Descrizione>
+        <Competenze nome="c" voto="7"/>
+        <Competenze nome="ja" voto="4"/>
+        <Competenze nome="c+" voto="7"/>
+        <Competenze nome="jav" voto="4"/>
+        <Esperienze nome="cipriani" inizio="21.04.2012" fine="21.08.2012"/>
+        <Esperienze nome="cipriani" inizio="21.04.2012" fine="21.08.2012"/>
+        <Esperienze nome="cipriani" inizio="21.04.2012" fine="21.08.2012"/>
+        <Studi percorso="ipsia" anno="2012"/>
+        <Studi percorso="itis" anno="2014"/>
+        <Lingue nome="inglese" livello="Basic"/>
+        <Lingue nome="tedesco" livello="Avanzato"/>
+        <Rete username="bgd"/>
+        <Rete username="ion"/>
+    </Utente>
+</Utenti>
